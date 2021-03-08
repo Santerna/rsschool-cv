@@ -140,7 +140,7 @@ nav {
     justify-content: start;
 }
 .contact{
-    padding-top: 50px;
+    padding-top: 10px;
     padding-bottom: 50px;
 
     width: 300px;
@@ -159,7 +159,7 @@ nav {
     justify-content: start;
 }
 .personal-header{
-    padding-top:90px;
+    padding-top: 35px;
     padding-bottom: 50px;
 
     font-size: 21px;
@@ -175,7 +175,7 @@ nav {
     justify-content: space-between;
 }
 .work-header{
-    padding-top:70px;
+    padding-top: 175px;
     padding-bottom: 50px;
 
     font-size: 21px;
@@ -191,7 +191,7 @@ nav {
     justify-content: space-between;
 }
 .education-header{
-    padding-top: 680px;
+    padding-top: 690px;
     padding-bottom: 50px;
 
     font-size: 21px;
