@@ -24,15 +24,32 @@ My soft skills are:
 
 ## Working experience
 
-I work as a content-manager: create text and visual content for web-sites, work on the content strategy, check and fix bugs in projects. 
+### Content marketer, SEO specialist
+April 2016 - Current
+Managing content for clients (keyword research, content planning, communication with freelancers), web-site pages optimization, technical website analysis. Learned Adobe Photoshop so that it helped company save money on drawing illustrations & image optimization.
 
-_Working experience: 4 years._
+### English Language Teacher, Computer Science Teacher / State School №7 of Baranovichi
+Sep 2011 - Aug 2020
+Work both as English language teacher and Computer Science teacher. Teach pupils of 6-17 years. Managed school web-site. Held courses on web-site development for students. Organised courses to help colleagues learn information and computer technologies. Helped school administration to organise events and technically equip them.
 
 **Strong skills:** CMS (Wordpress, Bitrix, Drupal, ModX), Google Webmaster, Google Analytics, Yandex Webmaster, Yandex Metrika, html, css, Photoshop, Illustrator.
 
+## Code Examples
+
+```
+const func = (num) => {  
+  if (num > 0) {  
+    return num - 1;  
+  }
+  return num + 1;  
+};  
+```
+
 ### Education
 
-RS School
+* Google Analytics Academy
+
+* RS School
 
 ### Language level
 
